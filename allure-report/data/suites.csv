@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5656","@API Test case 2","","2026-03-30","passed","2026-03-30","","WebApiPart2.spec.js","",""
+"","31774","@API Place the order","","2026-03-30","passed","2026-03-30","","NetworkTest.spec.js","",""
+"","31780","@API Place the order","","2026-03-30","passed","2026-03-30","","WebApiPart1.spec.js","",""
