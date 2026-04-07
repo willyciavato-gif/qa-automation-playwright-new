@@ -1,6 +1,6 @@
  const {test, expect} = require('@playwright/test');
  const {POManager} = require('../pageObejctModels/POManager');
-
+//esto es una prueba
 
  test('Client App login', async ({page})=>
  {
