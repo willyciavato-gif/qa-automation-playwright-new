@@ -3,7 +3,9 @@ const { request } = require('node:http');
 const { text } = require('node:stream/consumers');
 const { promise } = require('selenium-webdriver');
 
-test('Browser context Playwright test', async ({ browser }) =>
+
+test('@Web Browser context Playwright test', async ({ browser }) =>
+
 {
 const context = await browser.newContext();
 const page = await context.newPage();

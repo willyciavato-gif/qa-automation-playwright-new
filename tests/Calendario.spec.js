@@ -1,8 +1,10 @@
 const {test, expect} = require ("@playwright/test");
 
+
 test ("Calendario validations", async ({page}) =>
 {
     const monthNumber = "8";
+
     const date = "15";
     const year = "2027";
     const expectedList = [monthNumber, date, year];

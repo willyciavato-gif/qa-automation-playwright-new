@@ -18,7 +18,8 @@
     "typescript": "^6.0.2"
   },
   "dependencies": {
-    "exceljs": "^4.4.0"
+    "exceljs": "^4.4.0",
+    "selenium-webdriver": "^4.41.0"
   },
   "directories": {
     "test": "tests"
